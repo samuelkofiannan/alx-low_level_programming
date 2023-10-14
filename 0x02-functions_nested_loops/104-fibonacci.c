@@ -3,7 +3,7 @@
 /**
  * main - The main function
  * 1 and 2, seperated by a comma followed by a space
- * Return: 0
+ * Return: Always 0.
  */
 
 int main(void)
